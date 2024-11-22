@@ -3,10 +3,6 @@
 ./deps/googletest
 ./deps/jsoncpp
 ./deps/benchmark
-.vscode
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 .VSCodeCounter/*
 ./docs/doxy/
 build/*
@@ -34,3 +30,7 @@ src/observer/sql/parser/lex_sql.h
 src/observer/sql/parser/yacc_sql.cpp
 src/observer/sql/parser/yacc_sql.hpp
 #*#
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

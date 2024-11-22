@@ -1,7 +1,7 @@
 {
     "recommendations": [
-        "xaver.clang-format",
-        "llvm-vs-code-extensions.vscode-clangd",
-        "redjue.git-commit-plugin"
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }
